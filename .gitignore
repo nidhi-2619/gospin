@@ -1,0 +1,13 @@
+# Compiled binaries
+/gospin
+/bin/
+*.exe
+
+# Test / coverage output
+*.out
+coverage.html
+
+# Editor / OS cruft
+.DS_Store
+.idea/
+.vscode/
